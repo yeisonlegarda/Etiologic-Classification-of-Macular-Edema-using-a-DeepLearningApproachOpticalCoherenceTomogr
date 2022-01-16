@@ -43,7 +43,7 @@ Each of those folder has got images divided into:
  each of those folder has got a folder for segmented images performed by expert ophthalmologist (mask) and oct scans ground truth (images), 
  further dividing each folder into training, test and validation each image and its respective mask can be distinguished by its name.
 
-### Citing this work
+## Citing this work
 
 If you find this information or this repository useful in your research, please consider citing:
 
