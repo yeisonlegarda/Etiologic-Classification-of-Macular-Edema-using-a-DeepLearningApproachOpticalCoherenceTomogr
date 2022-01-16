@@ -30,7 +30,7 @@ Each of those folder has got images divided into:
  - AMD
  - RVO
  
- ### Scans segmentation
+ ## Scans segmentation
  
  For image segmentation mask for biomarkers suchs as fluids, focis, cyst and drusen are available, divided as:
  
