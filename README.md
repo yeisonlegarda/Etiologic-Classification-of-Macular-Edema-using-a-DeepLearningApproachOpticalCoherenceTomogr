@@ -42,6 +42,20 @@ Each of those folder has got images divided into:
  On each folder two folder with real shape images an reshaped images into 256 * 256 are found those are splited and reshapedSplited, 
  each of those folder has got a folder for segmented images performed by expert ophthalmologist (mask) and oct scans ground truth (images), 
  further dividing each folder into training, test and validation each image and its respective mask can be distinguished by its name.
+ 
+ ## Code
+ 
+ Folder code contains python notebooks for classification and segmentation, for segmentation two models are exposed:
+ 
+ - RESUNETPLUSPLUS
+ - SEDRIU
+
+For classification two notebooks are exposed also one of them for multiclassification and another for multiclassification:
+
+- MultiClassification
+- Classification
+
+All the above mentioned models are made with tensorflow 2.
 
 ## Citing this work
 
