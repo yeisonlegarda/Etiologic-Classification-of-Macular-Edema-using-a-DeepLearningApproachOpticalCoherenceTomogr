@@ -1,3 +1,5 @@
+![alt text](https://github.com/yeisonlegarda/EtiologicClassificationOfMacularEdemaUsing-ADeepLearningApproachOpticalCoherenceTomographyScans/blob/main/logo.png?raw=true)
+
 # Etiologic  Classification of Macular Edema Using a Deep Learning Approach in Optical Coherence Tomography Scans dataset
 This repository contains images from Etiologic Classification of Macular Edema Using a Deep Learning Approach in Optical Coherence Tomography Scans paper.
 
